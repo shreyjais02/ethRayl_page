@@ -1,5 +1,46 @@
 .main-container-ethrayl {
+    background-color: #F5F0E6;
     min-height: 100vh;
-    background-color: #f5f5f5;
-    padding: 20px;
+    height: auto;
+    min-width: 100vw;
+    width: auto;
+}
+
+.ethrayl-head {
+    color: rgb(56, 54, 54);
+    font-family: "tangerine";
+    font-size: 50px;
+}
+
+.header-ethrayl {
+    background-color: #E6E0D4;
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 2px;
+    box-shadow: 5px 5px 0px 1px rgba(0, 0, 0, 1);
+}
+
+.date-head {
+    color: #4B1E2B;
+    font-weight: bold;
+    font-family: "tangerine";
+    font-size: 50px;
+}
+
+.header-date {
+    background-color: #D88A9A;
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 2px;
+    box-shadow: 5px 5px 0px 1px rgba(0, 0, 0, 1);
+}
+
+.main-content {
+    background-color: #4B1E2B;
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 2px;
+    box-shadow: 5px 5px 0px 1px rgba(0, 0, 0, 1);
+    height: 70vh;
+
 }
