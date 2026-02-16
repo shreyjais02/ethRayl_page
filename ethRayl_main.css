@@ -32,6 +32,7 @@
     border-style: solid;
     border-radius: 25px;
     border-width: 2px;
+    width: auto;
     box-shadow: 5px 5px 0px 1px rgba(0, 0, 0, 1);
 }
 
